@@ -1,0 +1,11 @@
+{
+    "rows": 30000,
+    "columns_including_target": 24,
+    "missing_cells": 0,
+    "duplicate_rows": 35,
+    "target_column": "default payment next month",
+    "target_counts": {
+        "0": 23364,
+        "1": 6636
+    }
+}
